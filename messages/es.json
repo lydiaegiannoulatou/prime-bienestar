@@ -1,0 +1,73 @@
+{
+  "home": {
+    "eyebrow": "Fisioterapia Experta · Reino Unido",
+    "headline1": "Muévete Mejor.",
+    "headline2": "Siéntete Mejor.",
+    "headline3": "Vive Mejor.",
+    "tagline": "Atención fisioterapéutica personalizada que te ayuda a recuperarte más rápido, moverte con libertad y volver a la vida que amas.",
+    "bookCta": "Reservar Cita",
+    "learnMore": "Nuestros Servicios",
+    "stat1Value": "500+",
+    "stat1Label": "Pacientes Atendidos",
+    "stat2Value": "10+",
+    "stat2Label": "Años de Experiencia",
+    "stat3Value": "98%",
+    "stat3Label": "Tasa de Satisfacción",
+    "feat1Title": "Acreditado por el NHS",
+    "feat1Desc": "Registrado en la Chartered Society of Physiotherapy y totalmente reconocido por el NHS.",
+    "feat2Title": "Valoración 5 Estrellas",
+    "feat2Desc": "Consistentemente valorado como excelente por nuestros pacientes — 4.9 estrellas en Google.",
+    "feat3Title": "Basados en el Reino Unido",
+    "feat3Desc": "Ubicación conveniente con citas flexibles en clínica y visitas a domicilio.",
+    "feat4Title": "Cita en la Misma Semana",
+    "feat4Desc": "Entendemos la urgencia. La mayoría de pacientes son atendidos en 48 horas."
+  },
+  "header": {
+    "bookAppointment": "Reservar Cita",
+    "videoLibrary": "Videoteca",
+    "aboutUs": "Nosotros",
+    "profile": "Perfil",
+    "myAccount": "Mi Cuenta",
+    "appointments": "Citas",
+    "settings": "Ajustes",
+    "signOut": "Cerrar sesión",
+    "english": "Inglés",
+    "spanish": "Español",
+    "language": "Idioma"
+  },
+  "footer": {
+    "aboutTitle": "Nosotros",
+    "aboutText": "Prime Bienestar es tu aliado de confianza en bienestar — conectándote con atención experta, programas guiados y una comunidad enfocada en vivir mejor.",
+    "servicesTitle": "Servicios",
+    "services": {
+      "book_appointment": "Reservar Cita",
+      "video_library": "Videoteca",
+      "wellness_programs": "Programas de Bienestar",
+      "nutrition_plans": "Planes Nutricionales",
+      "mental_health": "Salud Mental",
+      "group_sessions": "Sesiones Grupales"
+    },
+    "companyTitle": "Empresa",
+    "company": {
+      "about_us": "Quiénes Somos",
+      "our_team": "Nuestro Equipo",
+      "careers": "Trabaja con Nosotros",
+      "blog": "Blog",
+      "press": "Prensa",
+      "contact": "Contacto"
+    },
+    "newsletterTitle": "Mantente al día",
+    "newsletterSubtitle": "Consejos de bienestar y novedades, directamente a tu bandeja.",
+    "newsletterPlaceholder": "tu@email.com",
+    "newsletterCta": "Unirme",
+    "newsletterNote": "Sin spam. Cancela cuando quieras.",
+    "allRightsReserved": "Todos los derechos reservados.",
+    "legal": {
+      "privacy_policy": "Política de Privacidad",
+      "terms_of_service": "Términos de Servicio",
+      "cookie_policy": "Política de Cookies",
+      "accessibility": "Accesibilidad",
+      "sitemap": "Mapa del Sitio"
+    }
+  }
+}

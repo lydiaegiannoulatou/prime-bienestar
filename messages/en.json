@@ -1,0 +1,73 @@
+{
+  "home": {
+    "eyebrow": "Expert Physiotherapy · United Kingdom",
+    "headline1": "Move Better.",
+    "headline2": "Feel Better.",
+    "headline3": "Live Better.",
+    "tagline": "Personalised physiotherapy care that helps you recover faster, move freely, and get back to the life you love.",
+    "bookCta": "Book Appointment",
+    "learnMore": "Our Services",
+    "stat1Value": "500+",
+    "stat1Label": "Patients Helped",
+    "stat2Value": "10+",
+    "stat2Label": "Years Experience",
+    "stat3Value": "98%",
+    "stat3Label": "Satisfaction Rate",
+    "feat1Title": "NHS Accredited",
+    "feat1Desc": "Registered with the Chartered Society of Physiotherapy and fully NHS-recognised.",
+    "feat2Title": "5-Star Rated",
+    "feat2Desc": "Consistently rated excellent by our patients — 4.9 stars on Google Reviews.",
+    "feat3Title": "Based in the UK",
+    "feat3Desc": "Conveniently located with flexible in-clinic and home-visit appointments.",
+    "feat4Title": "Same-Week Appointments",
+    "feat4Desc": "We understand urgency. Most patients are seen within 48 hours of referral."
+  },
+  "header": {
+    "bookAppointment": "Book Appointment",
+    "videoLibrary": "Video Library",
+    "aboutUs": "About Us",
+    "profile": "Profile",
+    "myAccount": "My Account",
+    "appointments": "Appointments",
+    "settings": "Settings",
+    "signOut": "Sign out",
+    "english": "English",
+    "spanish": "Spanish",
+    "language": "Language"
+  },
+  "footer": {
+    "aboutTitle": "About",
+    "aboutText": "Prime Bienestar is your trusted wellness partner — connecting you with expert care, guided programs, and a community focused on living better.",
+    "servicesTitle": "Services",
+    "services": {
+      "book_appointment": "Book Appointment",
+      "video_library": "Video Library",
+      "wellness_programs": "Wellness Programs",
+      "nutrition_plans": "Nutrition Plans",
+      "mental_health": "Mental Health",
+      "group_sessions": "Group Sessions"
+    },
+    "companyTitle": "Company",
+    "company": {
+      "about_us": "About Us",
+      "our_team": "Our Team",
+      "careers": "Careers",
+      "blog": "Blog",
+      "press": "Press",
+      "contact": "Contact"
+    },
+    "newsletterTitle": "Stay in the loop",
+    "newsletterSubtitle": "Wellness tips and updates, straight to your inbox.",
+    "newsletterPlaceholder": "your@email.com",
+    "newsletterCta": "Join",
+    "newsletterNote": "No spam. Unsubscribe anytime.",
+    "allRightsReserved": "All rights reserved.",
+    "legal": {
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service",
+      "cookie_policy": "Cookie Policy",
+      "accessibility": "Accessibility",
+      "sitemap": "Sitemap"
+    }
+  }
+}
